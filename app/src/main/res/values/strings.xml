@@ -1,0 +1,8 @@
+<resources>
+    <!-- <string name="app_name">Rotogro</string>-->
+    <string name="label_mobile_number">Mobile number</string>
+    <string name="label_get_otp">Get OTP</string>
+    <string name="label_enter_your_otp">Enter your OTP</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_resend_otp">Resend otp</string>
+</resources>
